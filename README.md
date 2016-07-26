@@ -1,3 +1,5 @@
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+
 ﻿# MultiOgar
 Ogar game server with fast and smooth vanilla physics and multi-protocol support.
 
